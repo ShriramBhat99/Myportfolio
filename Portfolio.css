@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Cormorant+SC:wght@500;700&family=Roboto&display=swap');
+.sidebar
+{
+    background-color: aqua;
+    width: 200px;
+    padding: 5px;
+    padding-top: 18px;
+    padding-left: 120px;
+    
+}
+.info
+{
+    background-color: blue;
+    margin: auto;
+    width: 876px;
+    height: 293px;
+    margin-top: 30px
+}
+*
+{
+    margin: 0px;
+    padding: 0px;
+    
+}
+li
+{
+    list-style: none;
+    padding-bottom: 80px;
+    font-size: larger;
+}
+.para
+{
+    background-color:antiquewhite;
+    font-family: 'Cormorant SC', serif;
+    width:1000px;
+    height: 700px;
+    align:right;
+}
+.con
+{
+    display:flex;
+}
